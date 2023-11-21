@@ -1,2 +1,1 @@
-# studySpace
-stud_##
+small projects/ study for web development
