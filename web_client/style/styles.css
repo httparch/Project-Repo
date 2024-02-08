@@ -1,0 +1,81 @@
+
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+.card {
+    width: 16 rem; 
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1); 
+  }
+.card-img-top {
+    max-height: 150px; 
+    object-fit: cover; 
+}
+
+
+.motto{
+    padding: 10px;
+} 
+
+.text{
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+
+.container{
+    margin-top: 15px;
+}
+
+.Highlights{
+    background-color: #333;
+}
+
+.white-box{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    opacity: 75%;
+}
+
+.behind{
+    margin-top: 300px;
+}
+
+.image-container {
+    width: 600px; 
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .image-container img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .col img {
+    width: 100%;
+    height: auto;
+  }
+  .small-img-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .small-img-container img {
+    width: 300px;
+    height: 95px;
+    margin-right: 10px;
+  }
+
+  .col p {
+    align-items: center;
+  }
