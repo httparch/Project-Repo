@@ -1,1 +1,1 @@
-small projects/ study for web development
+# small projects/ study for web development
