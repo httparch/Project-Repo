@@ -1,1 +1,1 @@
-# small projects/ study for web development
+# Frontend learning projects
